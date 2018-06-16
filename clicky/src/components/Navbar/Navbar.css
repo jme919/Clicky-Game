@@ -1,12 +1,10 @@
-.bg-info{
-    background-color: black;
+#header,header{
+    background-color: black !important;
     color: whitesmoke;
     text-align: center;
-    margin:25px;
+    margin: auto;
+
     }
-
-
-
 
 
 
